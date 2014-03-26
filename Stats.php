@@ -1,11 +1,11 @@
 <?php
 /*
 __PocketMine Plugin__
-name=Medic
+name=Stats
 version=0.0.1
 description=Plugin to allow Ops to heal other players
 author=linuxboytoo
-class=Medic
+class=Stats
 apiversion=10
 */
 
